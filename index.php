@@ -1,1 +1,1 @@
-<?php ASIWISI ?>
+<?php echo "ASIWISI" ?>
